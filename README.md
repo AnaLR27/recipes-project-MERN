@@ -6,7 +6,7 @@ Este es el archivo README que describe una aplicación web Full Stack desarrolla
 
 La aplicación web es un sistema de recopilación de recetas de cocina. Tiene una interfaz de usuario intuitiva y receptiva, lo que facilita la navegación por la misma.
 
-Los usuarios pueden crear nuevas recetas, ver una lista de las ya creadas, editarlas y borrarlas. También cuenta con una barra de busqueda para buscar por palabras.
+Los usuarios pueden crear nuevas recetas, ver una lista de las ya creadas, editarlas y borrarlas. También cuenta con una barra de busqueda por palabras.
 
 ## Tecnologías Utilizadas
 
