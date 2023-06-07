@@ -37,3 +37,6 @@ A continuación, se detallan los pasos para instalar y ejecutar la aplicación w
 6. Accede a la aplicación abriendo tu navegador y navegando a tu localhost.
 
 **Nota:** Asegúrate de tener MongoDB instalado y en ejecución en tu máquina local antes de ejecutar la aplicación. Además de acceso a la BBDD.
+
+![Texto alternativo](recipes-project.png)
+
